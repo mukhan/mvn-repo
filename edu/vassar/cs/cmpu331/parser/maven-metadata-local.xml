@@ -3,9 +3,11 @@
   <groupId>edu.vassar.cs.cmpu331</groupId>
   <artifactId>parser</artifactId>
   <versioning>
+    <release>3.6.9</release>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
+      <version>3.6.9</version>
     </versions>
-    <lastUpdated>20160518111017</lastUpdated>
+    <lastUpdated>20160601010140</lastUpdated>
   </versioning>
 </metadata>

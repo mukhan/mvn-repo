@@ -3,10 +3,11 @@
   <groupId>edu.vassar.cs.cmpu331</groupId>
   <artifactId>symbol-table</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>3.6.9</release>
     <versions>
       <version>1.0.0</version>
+      <version>3.6.9</version>
     </versions>
-    <lastUpdated>20160519231403</lastUpdated>
+    <lastUpdated>20160601005842</lastUpdated>
   </versioning>
 </metadata>
